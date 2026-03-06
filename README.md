@@ -1,7 +1,7 @@
-# 今日去邊度行山？
+# 今日去邊度行山？⛰️
 ## Hong Kong Hiking Trail Randomizer
 
-*Made by 港大行社 The Ramblers' Club, HKU | [@hku_ramblers](https://www.instagram.com/hku_ramblers)*
+*Made by 港大行社 The Ramblers' Club, HKU ⛰️| [@hku_ramblers](https://www.instagram.com/hku_ramblers)*
 
 ---
 

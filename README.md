@@ -80,7 +80,7 @@ The app is a single self-contained HTML file — no server or backend required.
 
 | Role | Credit |
 |---|---|
-| App Developer | 港大行社 The Ramblers' Club, HKU |
+| App Developer | 港大行社 The Ramblers' Club, HKU and Claude Sonnet 4.6 |
 | Instagram | [@hku_ramblers](https://www.instagram.com/hku_ramblers) |
 | Route Database | [@oasistrek](https://www.instagram.com/oasistrek) |
 | Trail Count | 400+ routes across Hong Kong |

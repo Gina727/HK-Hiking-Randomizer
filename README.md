@@ -56,26 +56,6 @@ The result card shows the trail details. You can re-roll for another suggestion,
 
 ---
 
-## How to Deploy as a Website
-
-The app is a single self-contained HTML file — no server or backend required.
-
-### Option 1 — Netlify Drop (Fastest, no account needed)
-1. Rename the file to `index.html`
-2. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
-3. Drag and drop the file into the browser window
-4. A public URL is generated instantly (e.g. `random-name-123.netlify.app`)
-
-> **Important:** The file must be named `index.html`, otherwise Netlify will show a "Page not found" error.
-
-### Option 2 — GitHub Pages (Recommended for long-term use)
-1. Create a free account at [github.com](https://github.com)
-2. Create a new repository and upload the HTML file, renamed to `index.html`
-3. Go to **Settings → Pages → select main branch → Save**
-4. Your site will be live at: `https://[username].github.io/[repo-name]`
-
----
-
 ## Credits
 
 | Role | Credit |
